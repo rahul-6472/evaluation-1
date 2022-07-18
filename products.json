@@ -1,0 +1,13 @@
+{
+     "products":[
+         {
+            "id":1,
+            "category":"male",
+            "name":"shoes",
+            "brand":"adidas",
+            "price":12344
+         }
+    
+     ]
+}
+
