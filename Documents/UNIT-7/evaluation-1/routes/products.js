@@ -6,7 +6,6 @@ const products = require("../products.json");
 const uuid = require("uuid");
 
 
-
 //get all products
 productRouter.get("/products", (req, res) => {
   res.status(200).send(products);
